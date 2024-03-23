@@ -48,7 +48,7 @@ Eu sou o Steven, dev back-end, 🎓cursando análise e desenvolvimento de sistem
 ## 📊 &nbsp;Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevenwendryll&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevenwendryll&layout=compact)
 
 </div>
 
