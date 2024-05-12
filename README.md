@@ -27,7 +27,7 @@
 
 Olá! 👋
 
-Eu sou o Steven, dev back-end, 🎓cursando análise e desenvolvimento de sistemas. Em transição de carreira busco aprimorar meus conhecimentos e trazer soluções criativas para o mercado.
+Eu sou o Steven, estou estudando para ser um dev back-end, 🎓cursando análise e desenvolvimento de sistemas. Em transição de carreira busco aprimorar meus conhecimentos e trazer soluções criativas para o mercado.
 
 ## 🛠 &nbsp;Tech Stack
 
