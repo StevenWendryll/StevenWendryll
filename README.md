@@ -70,9 +70,3 @@ Eu sou o Steven, cursando análise e desenvolvimento de sistemas. Minha trajetó
 
 
 </div>
-
-<details align="left">
-  <summary>Credits</summary> 
-  - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
-
-</details>
