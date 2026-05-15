@@ -169,11 +169,11 @@ Com foco em gerar valor através de dados, dashboards e soluções inteligentes.
 # 🌎 Conecte-se comigo
 
 <p align="left">
-  <a href="SEU_LINKEDIN" target="_blank">
+  <a href="[SEU_LINKEDIN](https://www.linkedin.com/in/steven-wendryll/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="mailto:SEUEMAIL">
+  <a href="mailto:stevenwendryll@hotmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
