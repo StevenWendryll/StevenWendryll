@@ -72,7 +72,7 @@ Atualmente estudo Análise e Desenvolvimento de Sistemas e busco evoluir constan
 
 # 📈 Estatísticas GitHub
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StevenWendryll)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StevenWendryll)](https://github.com/StevenWendryll/github-readme-stats)
 
 ---
 
