@@ -1,69 +1,185 @@
-<h1 align="center">
-  Hello World, I'm Steven Wendryll 👋
-</h1>
+<h1 align="center">👋 Olá, eu sou Steven Wendryll</h1>
 
-<div align="center">
-<img height="320em" src="https://gifs.eco.br/wp-content/uploads/2022/11/gifs-de-programador-29.gif"/>
+<p align="center">
+  📊 Analista de Dados Jr • BI • Observabilidade • Automação • Desenvolvimento Web
+</p>
 
-</div>
-
-<h3 align="center">
-  Desenvolverdor Full Stack
-</h3>
-
-<div align="center">
-<p>
-<a href="mailto:stevenwendryll@hotmail.com"><img src="https://img.shields.io/badge/-email-020114?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=EBD03E&amp;color:FFF" alt="E-mail">
-</a>
-<a href="https://www.linkedin.com/in/steven-wendryll-761b281b2/"><img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&amp;logo=linkedin&amp;logoColor=EBD03E&amp;color:FFF" alt="LinkedIn"></a>
-</div>
+<p align="center">
+  Transformando dados, métricas e observabilidade em soluções inteligentes.
+</p>
 
 ---
 
-### 🎯 Desenvolvedor em busca de conhecimento
+# 🚀 Sobre mim
 
-Olá! 👋
+Sou profissional com experiência em ambiente militar e elétrica industrial, atualmente em transição para a área de Dados e Tecnologia.
 
-Eu sou o Steven, cursando análise e desenvolvimento de sistemas. Minha trajetória profissional foi construída sobre a base sólida da Elétrica, onde desenvolvi um raciocínio lógico apurado e a capacidade de resolver problemas complexos sob pressão. Agora, estou direcionando essa mentalidade analítica para o desenvolvimento de software e a área de Tecnologia da Informação. Percebi que a mesma lógica utilizada para projetar circuitos e analisar sistemas de potência se aplica à construção de código limpo e arquiteturas escaláveis. Trago da área elétrica a disciplina, a atenção aos detalhes críticos e o rigor metodológico.
+Atuo no desenvolvimento de soluções focadas em:
 
+- 📊 Business Intelligence
+- ⚙️ ETL/ELT
+- 📈 Dashboards e Analytics
+- 🔍 Observabilidade
+- 🤖 Automação com IA
+- 🌐 Desenvolvimento Web
 
-## 🛠 &nbsp;Tech Stack
+Atualmente estudo Análise e Desenvolvimento de Sistemas e busco evoluir constantemente em tecnologias voltadas para dados, monitoramento e aplicações modernas.
 
-### 👩‍💻 &nbsp;Back-End
+---
 
-![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+# 🧠 Stack Principal
 
+## 📊 Dados & BI
 
-### 🎨 &nbsp;Front-end
+<p>
+  <img src="https://skillicons.dev/icons?i=python,mysql" />
+</p>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![MaterialUI](https://img.shields.io/badge/Material%20UI-%23FFFFFF?style=for-the-badge&logo=MUI&logoColor=#007FFF)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-0F6CBD?style=for-the-badge)
+![ETL](https://img.shields.io/badge/ETL%2FELT-4B0082?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-### ⚡ &nbsp;Database
+---
 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+## 📈 DevOps & Observabilidade
 
-### 🛠️ &nbsp;Infraestrutura e Ferramentas DevOps / Deploy
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,grafana,prometheus" />
+</p>
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Observabilidade](https://img.shields.io/badge/Observabilidade-FF6B00?style=for-the-badge)
+![Monitoramento](https://img.shields.io/badge/Monitoramento-121212?style=for-the-badge)
 
-### 🧪 &nbsp;Qualidade, Testes e Monitoramento
+---
 
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+## 🌐 Desenvolvimento Web
 
+<p>
+  <img src="https://skillicons.dev/icons?i=javascript,react,tailwind,nodejs" />
+</p>
 
+![SPA](https://img.shields.io/badge/SPA-Single%20Page%20Application-blue?style=for-the-badge)
 
-</div>
+---
+
+## 🤖 Inteligência Artificial
+
+![IA](https://img.shields.io/badge/IA-Aplicada%20a%20Analytics-6A0DAD?style=for-the-badge)
+![Automação](https://img.shields.io/badge/Automação-Inteligente-008000?style=for-the-badge)
+
+---
+
+# 📌 Projetos em destaque
+
+## 📊 Dashboard Financeiro
+Sistema web para controle financeiro pessoal com:
+- categorização de despesas
+- metas financeiras
+- gráficos interativos
+- análise de gastos
+
+### Stack
+`React` `Python` `SQL` `Power BI`
+
+---
+
+## ⚙️ Pipeline ETL Automatizado
+Projeto de automação de pipelines de dados utilizando:
+- Python
+- SQL
+- ETL/ELT
+- integração com dashboards
+
+### Objetivos
+- automatizar coleta de dados
+- transformar dados brutos
+- alimentar dashboards em tempo real
+
+---
+
+## 📈 Observabilidade de Infraestrutura
+Dashboard de monitoramento utilizando:
+- Grafana
+- Prometheus
+- Docker
+
+### Funcionalidades
+- métricas em tempo real
+- alertas inteligentes
+- monitoramento de containers
+- dashboards analíticos
+
+---
+
+## 🌐 Portal Analytics Web
+Aplicação SPA moderna para visualização de indicadores.
+
+### Tecnologias
+- React
+- Tailwind CSS
+- APIs
+- gráficos dinâmicos
+
+---
+
+# 📚 Atualmente estudando
+
+- 📊 Engenharia de Dados
+- ☁️ Azure & Microsoft Fabric
+- 🔍 Observabilidade moderna
+- ⚙️ DataOps
+- 🧠 IA aplicada a Analytics
+- 🐍 Python para automação
+
+---
+
+# 📈 Estatísticas GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 🔥 Sequência de contribuições
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEUUSUARIO&theme=tokyonight" />
+</p>
+
+---
+
+# 🎯 Objetivos profissionais
+
+Busco oportunidades para atuar com:
+- Análise de Dados
+- Business Intelligence
+- Observabilidade
+- ETL/ELT
+- Automação
+- Engenharia Analytics
+
+Com foco em gerar valor através de dados, dashboards e soluções inteligentes.
+
+---
+
+# 🌎 Conecte-se comigo
+
+<p align="left">
+  <a href="SEU_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:SEUEMAIL">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+# 💡 Frase
+
+> "Dados, automação e observabilidade aplicados à resolução de problemas reais."
