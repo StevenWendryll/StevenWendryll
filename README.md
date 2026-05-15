@@ -169,7 +169,7 @@ Com foco em gerar valor através de dados, dashboards e soluções inteligentes.
 # 🌎 Conecte-se comigo
 
 <p align="left">
-  <a href="[SEU_LINKEDIN](https://www.linkedin.com/in/steven-wendryll/)" target="_blank">
+  <a href="https://www.linkedin.com/in/steven-wendryll/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
