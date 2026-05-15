@@ -72,11 +72,7 @@ Atualmente estudo Análise e Desenvolvimento de Sistemas e busco evoluir constan
 
 # 📈 Estatísticas GitHub
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=StevenWendryll&show_icons=true&theme=tokyonight" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StevenWendryll&layout=compact&theme=tokyonight"/>
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StevenWendryll&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ---
 
