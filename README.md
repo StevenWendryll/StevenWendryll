@@ -32,7 +32,7 @@ Atualmente estudo Análise e Desenvolvimento de Sistemas e busco evoluir constan
 ## 📊 Dados & BI
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,excel,powerbi" />
 </p>
 
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -67,70 +67,6 @@ Atualmente estudo Análise e Desenvolvimento de Sistemas e busco evoluir constan
 
 ![IA](https://img.shields.io/badge/IA-Aplicada%20a%20Analytics-6A0DAD?style=for-the-badge)
 ![Automação](https://img.shields.io/badge/Automação-Inteligente-008000?style=for-the-badge)
-
----
-
-# 📌 Projetos em destaque
-
-## 📊 Dashboard Financeiro
-Sistema web para controle financeiro pessoal com:
-- categorização de despesas
-- metas financeiras
-- gráficos interativos
-- análise de gastos
-
-### Stack
-`React` `Python` `SQL` `Power BI`
-
----
-
-## ⚙️ Pipeline ETL Automatizado
-Projeto de automação de pipelines de dados utilizando:
-- Python
-- SQL
-- ETL/ELT
-- integração com dashboards
-
-### Objetivos
-- automatizar coleta de dados
-- transformar dados brutos
-- alimentar dashboards em tempo real
-
----
-
-## 📈 Observabilidade de Infraestrutura
-Dashboard de monitoramento utilizando:
-- Grafana
-- Prometheus
-- Docker
-
-### Funcionalidades
-- métricas em tempo real
-- alertas inteligentes
-- monitoramento de containers
-- dashboards analíticos
-
----
-
-## 🌐 Portal Analytics Web
-Aplicação SPA moderna para visualização de indicadores.
-
-### Tecnologias
-- React
-- Tailwind CSS
-- APIs
-- gráficos dinâmicos
-
----
-
-# 📚 Atualmente estudando
-
-- 📊 Engenharia de Dados
-- ☁️ Azure & Microsoft Fabric
-- 🔍 Observabilidade moderna
-- ⚙️ DataOps
-- 🧠 IA aplicada a Analytics
-- 🐍 Python para automação
 
 ---
 
@@ -180,6 +116,4 @@ Com foco em gerar valor através de dados, dashboards e soluções inteligentes.
 
 ---
 
-# 💡 Frase
-
-> "Dados, automação e observabilidade aplicados à resolução de problemas reais."
+# ADSUMUS!!
